@@ -22,3 +22,12 @@ questions = {
     "Where is the Grand Canyon located?:":"D"
     "The Great Barrier Reef is the largest Coral reef located in which country?:":"B"
 }
+
+options = [
+    ["A. Victoria Falls", "B. Niagra Falls", "C. Iguazu Falls", "D. Angel Falls", ]
+    ["A. Iguazu Falls", "B. Niagra Falls", "C. Victoria Falls", "D. Angel Falls", ]
+    ["A. Mount Denali", "B. Mount Everest", "C. Mount Makalu", "D. Mount Kilimanjaro", ]
+    ["A. Peru", "B. Norway", "C. Ireland", "D. Unites States", ]
+    ["A. United Kingdom", "B. Australia", "C. France", "D. Botswana", ]
+]
+
